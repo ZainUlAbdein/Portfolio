@@ -104,7 +104,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                  'src/assets/resume/Resume.pdf', 
+                  'Resume.pdf', 
                   '_blank'
                 )
               }
