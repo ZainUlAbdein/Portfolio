@@ -104,7 +104,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                  'Resume.pdf', 
+                  'https://drive.google.com/file/d/1bnEshsMkDIHushLtZpGpxp_GmNWL_h2t/view?usp=drive_link', 
                   '_blank'
                 )
               }
