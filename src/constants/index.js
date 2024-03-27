@@ -192,7 +192,7 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'Weather Prediction App',
+    name: 'Weather Predictor',
     description: 'Machine Learning based weather Prediction App build with React JS',
     tags: [
       {
