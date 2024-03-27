@@ -34,9 +34,8 @@ const Hero = () => {
 
           <div>
             <h1
-              className={`${styles.heroHeadText} sm:text-battleGray sm:text-[65px] 
-                text-eerieBlack text-[25px] font-mova
-                font-extrabold font-poppins uppercase`}>
+              className={`${styles.heroHeadText} sm:text-[65px] 
+                text-eerieBlack text-[25px] font-poppins uppercase`}>
               Hi, I'm{' '}
               <span
                 className="sm:text-battleGray sm:text-[65px] 
