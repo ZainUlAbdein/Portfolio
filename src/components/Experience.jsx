@@ -104,7 +104,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                  'https://drive.google.com/file/d/1AUpc-B3FxjxUcorXwUt34cHLyUNp9T0R/view?usp=drive_link', 
+                  'https://drive.google.com/file/d/1KHmChgp_wKshur7au4oK-5No3X-Bna_G/view?usp=sharing', 
                   '_blank'
                 )
               }
