@@ -39,6 +39,7 @@ import tensorflow from './tech/tensorflow.png';
 
 
 import BooksStudio from './projects/Books-Studio.png';
+import BooksStudio_2 from './projects/Books-Studio_2.png';
 import AI2048 from './projects/AI-Based-2048.png';
 import weather from './projects/weather-app.png';
 import visionverse from './projects/visionverse.png';
@@ -73,6 +74,7 @@ export {
   tailwind,
   typescript,
   BooksStudio,
+  BooksStudio_2,
   certificate,
   AI2048,
   weather,

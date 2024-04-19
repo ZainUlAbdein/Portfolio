@@ -11,6 +11,7 @@ import {
   nodejs,
   git,
   BooksStudio,
+  BooksStudio_2,
   certificate,
   AI2048,
   weather,
@@ -169,6 +170,28 @@ const projects = [
   },
   {
     id: 'project-2',
+    name: 'Books Studio 2.0',
+    description: 'A Book reading and Music Web Application, Better and Enhanced',
+    tags: [
+      {
+        name: 'Anguler 17',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Django',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'Tailwind',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: BooksStudio_2,
+    repo: 'https://github.com/ZainUlAbdein/FrontEnd',
+    demo: 'https://books-studio.vercel.app/',
+  },
+  {
+    id: 'project-3',
     name: 'AI Based 2048',
     description:
       'An AI based 2048 tile game that can played by user and AI also.',
@@ -191,7 +214,7 @@ const projects = [
     demo: '',
   },
   {
-    id: 'project-3',
+    id: 'project-4',
     name: 'Weather Predictor',
     description: 'Machine Learning based weather Prediction App build with React JS',
     tags: [
@@ -213,7 +236,7 @@ const projects = [
     demo: '',
   },
   {
-    id: 'project-4',
+    id: 'project-5',
     name: 'Vision Verse',
     description: 'An image captioning app using Deep learning Model for Image captured from ESP32 cam.',
     tags: [
